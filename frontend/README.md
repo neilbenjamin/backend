@@ -16,4 +16,4 @@ In the terminal, type in npm test to run the unit & snapshot test concurrently.
 ##### Github Link
 The gitHub repository can be found here: 
 ###### Heroku Link
-The App can be found live on Heroku, here:  
+The Express Backend Server can be found live on Heroku, here: https://fullstackproject-fa7dd187ee87.herokuapp.com/ and I am still trying to figure out how to get the actually application on react to load. 
