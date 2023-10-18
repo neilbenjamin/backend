@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders iTunes Fetch Main Page 1`] = `
+<DocumentFragment>
+  <div
+    class="App container"
+  >
+    <div
+      class="card"
+    >
+      <div
+        class="card-body"
+      >
+        <form>
+          <div
+            class="mb-3"
+          >
+            <input
+              class="form-control"
+              placeholder="Enter search term"
+              type="text"
+              value=""
+            />
+          </div>
+          <div
+            class="mb-3"
+          >
+            <select
+              class="form-select"
+            >
+              <option
+                value=""
+              >
+                Select an option
+              </option>
+              <option
+                value="music"
+              >
+                Music
+              </option>
+              <option
+                value="musicVideo"
+              >
+                Music Videos
+              </option>
+              <option
+                value="movie"
+              >
+                Movies
+              </option>
+              <option
+                value="podcast"
+              >
+                Podcasts
+              </option>
+              <option
+                value="audiobook"
+              >
+                Audiobooks
+              </option>
+              <option
+                value="software"
+              >
+                Applications
+              </option>
+              <option
+                value="tvShow"
+              >
+                TV-Show
+              </option>
+              <option
+                value="ebook"
+              >
+                ebook
+              </option>
+              <option
+                value="shortFilm"
+              >
+                Short Film
+              </option>
+            </select>
+          </div>
+          <button
+            class="btn btn-primary"
+            type="submit"
+          >
+            Search
+          </button>
+        </form>
+      </div>
+    </div>
+    <div
+      class="row"
+    >
+      <div
+        class="col-md-8"
+      />
+      <div
+        class="col-md-4"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
