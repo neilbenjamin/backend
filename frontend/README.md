@@ -14,6 +14,6 @@ responds back to the client with the api key, meaning that no-one on the front e
 #### Test
 In the terminal, navigate to the frontend directory and type in npm test to run the unit & snapshot test concurrently for both tests. In the back end, I can't get the test to run after 4 hours of deadends. I will log a call to get some insight into this technology I'm unfamiliar with.
 ##### Github Link
-The gitHub repository can be found here: 
+The gitHub repository can be found here: https://github.com/neilbenjamin/backend
 ###### Heroku Link
 The Express Backend Server can be found live on Heroku, here: https://fullstackproject-fa7dd187ee87.herokuapp.com/. 
