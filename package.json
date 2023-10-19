@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "mocha ./*.spec.js",
     "start": "nodemon app.js"
   },
   "keywords": [],
@@ -20,5 +20,10 @@
     "nodemon": "^3.0.1",
     "pwd": "^1.1.0",
     "react-bootstrap": "^2.9.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
   }
 }

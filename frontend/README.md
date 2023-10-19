@@ -12,8 +12,8 @@ which sites and sources are valid for the app to communicate and transfer to to/
 built one using the dotenv env method which sets up a new api call to the backend upon mounting (ueseEffect), who in turn GET's the api from the .env file, and 
 responds back to the client with the api key, meaning that no-one on the front end is able to find teh key in the console. Uncomment the console.log in the useEffect to see the api key logging to console to test when the server starts.
 #### Test
-In the terminal, type in npm test to run the unit & snapshot test concurrently.
+In the terminal, navigate to the frontend directory and type in npm test to run the unit & snapshot test concurrently for both tests. In the back end, I can't get the test to run after 4 hours of deadends. I will log a call to get some insight into this technology I'm unfamiliar with.
 ##### Github Link
 The gitHub repository can be found here: 
 ###### Heroku Link
-The Express Backend Server can be found live on Heroku, here: https://fullstackproject-fa7dd187ee87.herokuapp.com/ and I am still trying to figure out how to get the actually application on react to load. 
+The Express Backend Server can be found live on Heroku, here: https://fullstackproject-fa7dd187ee87.herokuapp.com/. 
